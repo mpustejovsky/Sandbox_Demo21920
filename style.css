@@ -1,0 +1,45 @@
+img {
+  width: 20%;
+  align-content: left;
+}
+h4 {
+  color: blue;
+  text-align: center;
+  background-color: red;
+}
+
+h1 {
+  font-family: "Slabo 27px", serif;
+
+  text-decoration: underline;
+}
+
+body {
+  background-image: url("https://images.pexels.com/photos/259280/pexels-photo-259280.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+}
+* {
+  text-align: center;
+  font-family: "Akronim", cursive;
+}
+/* unvisited link */
+a:link {
+  color: #ff0000;
+}
+
+/* visited link */
+a:visited {
+  color: #00ff00;
+}
+
+/* mouse over link */
+a:hover {
+  color: #ff00ff;
+}
+
+/* selected link */
+a:active {
+  color: #0000ff;
+}
+h1:hover {
+  background-color: orangered;
+}
